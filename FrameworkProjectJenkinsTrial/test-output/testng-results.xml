@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<body style=background-color:LemonChiffon>]]>
+    </line>
+    <line>
+      <![CDATA[<div align=center><h2>Batch Execution for LOGIN Module</h2></div>]]>
+    </line>
+    <line>
+      <![CDATA[<Table border=1 bordercolor=BLACK>]]>
+    </line>
+    <line>
+      <![CDATA[<td><h4>(1)Execution Result for 'Can't Access Account' Class-</td><td><a href=E:\Project\FrameworkProjectJenkinsTrial\src\HTML_REPORTS\Cant_access_Act.htm>Detailed Result</a></td></h4>]]>
+    </line>
+    <line>
+      <![CDATA[<td><h4>(1)Execution Result for 'Login' Class-</td><td><a href=E:\Project\FrameworkProjectJenkinsTrial\src\HTML_REPORTS\Login.htm>Detailed Result</a></td></h4>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50896" started-at="2014-10-09T13:12:14Z" finished-at="2014-10-09T13:13:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50896" started-at="2014-10-09T13:12:14Z" finished-at="2014-10-09T13:13:05Z">
+      <class name="Module1.DriverClass">
+        <test-method status="PASS" signature="testt()[pri:0, instance:Module1.DriverClass@a79c31]" name="testt" duration-ms="50886" started-at="2014-10-09T13:12:14Z" finished-at="2014-10-09T13:13:05Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
